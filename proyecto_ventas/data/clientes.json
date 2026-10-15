@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Miguel",
+    "apellido": "Arreaga",
+    "email": "erick24@gmail.com",
+    "telefono": "0958552440",
+    "ciudad": "Guayaquil"
+  },
+  {
+    "id": 2,
+    "nombre": "Erick",
+    "apellido": "Arreaga",
+    "email": "erick@gmail.com",
+    "telefono": "0958934065",
+    "ciudad": "Guayaquil"
+  }
+]
